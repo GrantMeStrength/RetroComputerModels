@@ -82,9 +82,3 @@ The existing [MIT license](LICENSE) covers original code and model contributions
 owned by the contributor. **It does not relicense third-party photographs,
 decals, reference-derived material or trademarks.** See [ATTRIBUTION.md](ATTRIBUTION.md)
 before redistributing models, embedded textures or renders.
-
-The contributor has confirmed permission to redistribute supplied photographs
-and decals. Known source credits and license notices are retained; that
-confirmation is not a blanket MIT grant for those materials. Downloaded reference
-photographs, reference STL/3MF files and photo-comparison sheets are not included.
-Computer and company names are their owners' marks; no endorsement is implied.
