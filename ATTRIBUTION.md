@@ -108,6 +108,35 @@ The supplied `zx81_case_top.stl` / `zx81_case_bottom.stl` were measurement refer
 only; authorship/license was not established. They are not distributed, and their
 topology is not in the model. The editable scene contains the original constructed geometry.
 
+## Sinclair ZX80
+
+The supplied `zx80-decal.png` provides the Sinclair/ZX80 top artwork. The
+contributor confirms permission to redistribute this supplied decal as used in
+the model. Original authorship and specific public license terms have not
+independently been established; the decal is **not automatically MIT**.
+Its original file is not distributed separately.
+
+Changes: the full 1098 × 414 canvas was retained at uniform physical scale,
+with white-matte removal, antialias unmatting and compositing onto the existing
+case color. No lettering was cropped or stretched. Derived decal pixels are
+inside the packed `case-original.png` texture and appear in the model preview.
+The name of that packed image does not imply original ownership of the supplied
+decal. The keyboard image contains newly drawn typography and block/checker
+glyphs; system font files are not included.
+
+The supplied `zx80-Top.stl`, `zx80-Bottom%20Part%201%20With%20Support.stl`,
+`zx80-Bottom.stl` and `ZX-80_Case.rsdoc` informed geometry measurements.
+Their creators/licenses were not established. None are distributed, and no
+reference mesh topology is included in the model.
+
+Supplied `zx80-rear-panel.png` and existing ZX80 photograph/keyboard-diagram
+references informed the rear apertures and factual keyboard layout.
+Photographer/diagram authorship is unresolved. Those files are not distributed,
+and their photograph/diagram pixels are not embedded in the model.
+The contributor's supplied-material permission does not relicense separately
+obtained reference imagery. [ZX80 historical overview](https://en.wikipedia.org/wiki/ZX80)
+corroborates the white shell, blue membrane keyboard and cosmetic rear stripes.
+
 ## Jupiter Ace
 
 The supplied `jupiter-ace-Top-Rear.stl`, `jupiter-ace-Keyboard.stl` and

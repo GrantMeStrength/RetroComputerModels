@@ -4,10 +4,11 @@ Editable 3D illustrations of classic home and personal computers. Download a
 **USDZ** for Quick Look, AR or a compatible viewer, or open the **Blender source**
 to edit the geometry, materials and packed textures.
 
-The collection currently contains **12 models**. The Spectrum 48K and Timex
+The collection currently contains **13 models**. The Spectrum 48K and Timex
 Sinclair 1500 are **awaiting visual approval**; publication does not mean they
-have been approved for an application. The other ten have been visually reviewed.
-The final ZX80 revision is pending and is not included yet.
+have been approved for an application. The other eleven have been visually reviewed.
+The ZX80 includes the completed bottom, supplied top decal, two-sided edge
+contacts and case-colored joining rivets.
 
 ## Catalog
 
@@ -21,6 +22,7 @@ limitations and source notes. For a binary file, use GitHub's **Download raw fil
 | <img src="previews/researchMachines380Z.png" width="180" alt="Research Machines 380Z model"> | [Research Machines 380Z](ModelSources/RM380Z/) | [USDZ](ModelSources/RM380Z/researchMachines380Z.usdz) · [Blender](ModelSources/RM380Z/researchMachines380Z.blend) |
 | <img src="previews/bbcMicro.png" width="180" alt="BBC Micro Model B model"> | [BBC Micro Model B](ModelSources/BritishModels/) | [USDZ](ModelSources/BritishModels/bbcMicro.usdz) · [Blender](ModelSources/BritishModels/bbcMicro.blend) |
 | <img src="previews/amstradCPC464.png" width="180" alt="Amstrad CPC 464 model"> | [Amstrad CPC 464](ModelSources/BritishModels/) | [USDZ](ModelSources/BritishModels/amstradCPC464.usdz) · [Blender](ModelSources/BritishModels/amstradCPC464.blend) |
+| <img src="previews/zx80.png" width="180" alt="Sinclair ZX80 model"> | [Sinclair ZX80](ModelSources/ZX80ReferenceRebuild/) | [USDZ](ModelSources/ZX80ReferenceRebuild/zx80.usdz) · [Blender](ModelSources/ZX80ReferenceRebuild/zx80.blend) |
 | <img src="previews/zx81.png" width="180" alt="Sinclair ZX81 model"> | [Sinclair ZX81](ModelSources/ZX81ReferenceRebuild/) | [USDZ](ModelSources/ZX81ReferenceRebuild/zx81.usdz) · [Blender](ModelSources/ZX81ReferenceRebuild/zx81.blend) |
 | <img src="previews/jupiterAce.png" width="180" alt="Jupiter Ace model"> | [Jupiter Ace](ModelSources/JupiterAceReferenceRebuild/) | [USDZ](ModelSources/JupiterAceReferenceRebuild/jupiterAce.usdz) · [Blender](ModelSources/JupiterAceReferenceRebuild/jupiterAce.blend) |
 | <img src="previews/electron-review.png" width="180" alt="Acorn Electron model"> | [Acorn Electron](ModelSources/ElectronReferenceRebuild/) | [USDZ](ModelSources/ElectronReferenceRebuild/electron-review.usdz) · [Blender](ModelSources/ElectronReferenceRebuild/electron-review.blend) |

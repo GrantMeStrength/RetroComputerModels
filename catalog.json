@@ -50,6 +50,17 @@
     "preview_sha256": "143160f0e493839689ab8f8b8e410235c080eec0b619dfeda9fdf9c86b46a6fc"
   },
   {
+    "name": "Sinclair ZX80",
+    "status": "reviewed",
+    "blend": "ModelSources/ZX80ReferenceRebuild/zx80.blend",
+    "usdz": "ModelSources/ZX80ReferenceRebuild/zx80.usdz",
+    "preview": "previews/zx80.png",
+    "revision": "Completed bottom, supplied top decal, 1.6 mm PCB with two-sided contacts, plastic rivets and support clearance",
+    "blend_sha256": "cd4a9f6db7ebbc8228f938fcaf10bd82e1e628592a8f8767c3dd4e3fe25b0a7d",
+    "usdz_sha256": "6774f1257ab88b4ea8c2b0e5542eb7ef9d17e7048a96be892a4f21051e4e06ac",
+    "preview_sha256": "7581d1f5c647eff349ab9e4b026e84fbc100f577de4269019053dd134312c1e5"
+  },
+  {
     "name": "Sinclair ZX81",
     "status": "reviewed",
     "blend": "ModelSources/ZX81ReferenceRebuild/zx81.blend",
