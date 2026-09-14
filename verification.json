@@ -149,26 +149,26 @@
       "isolated_blend_open": true,
       "source_geometry_uv_material_transforms_preserved": true,
       "packed_images_unchanged": 4,
-      "scene_content_sha256": "c9224d94c6915058a914fa2858f9ddd31e3216d0815681c29b9ba2fae5f223cb",
+      "scene_content_sha256": "b54d0a037e44335dd005729c53d5174c6ef7eace15e0552c0358dd0e3c1f4c70",
       "mesh_count": 85,
-      "vertices": 8536,
-      "triangles": 16748,
+      "vertices": 8866,
+      "triangles": 17408,
       "usd_warnings": [],
       "native_realitykit_loaded_and_centered": true,
-      "revision": "Flat rubber-key tops with 0.2 mm edge bevels"
+      "revision": "45-degree straight joining ramps with small rounded joins; flat rubber-key tops retained"
     },
     {
       "model": "Timex Sinclair 1500",
       "isolated_blend_open": true,
       "source_geometry_uv_material_transforms_preserved": true,
       "packed_images_unchanged": 5,
-      "scene_content_sha256": "ef4a37306efd54b4a67302ae0312b4ef5326a7c5c5092198e627fb8e6eff6698",
+      "scene_content_sha256": "563109b909ad33025c1133067af744c248587415b29f6e857378b2d414647e46",
       "mesh_count": 63,
-      "vertices": 13954,
-      "triangles": 27672,
+      "vertices": 14316,
+      "triangles": 28396,
       "usd_warnings": [],
       "native_realitykit_loaded_and_centered": true,
-      "revision": "Flat rubber-key tops with 0.2 mm edge bevels"
+      "revision": "45-degree straight joining ramps with small rounded joins; flat rubber-key tops retained"
     },
     {
       "model": "Timex Sinclair 2068 (US / NTSC)",

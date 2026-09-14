@@ -1,12 +1,12 @@
 # Spectrum 48K and Timex Sinclair 1500
 
-**Both models await visual approval.** These are separate review candidates,
-not approved application assets.
+**Both final models have been visually reviewed and approved.**
 
 Both use a nominal **233 × 144 mm** footprint, approximately **30 mm** overall
-height, original rolled/deck-step case lofts, thin faceplates and 40 individual
-rubber keys with **single flat tops and small 0.2 mm edge bevels**. Key heights,
-bases and footprints are retained; the other model parts are unchanged.
+height, original case lofts, thin faceplates and 40 individual rubber keys each.
+The central joining faces are **45° straight ramps with small rounded joins**.
+All 80 caps retain **single flat tops and small 0.2 mm edge bevels**; their heights,
+bases and footprints, and both outer case envelopes, are unchanged by the ramp correction.
 Exact published heights are about 30.075 mm (Spectrum)
 and 30.090 mm (Timex), including thin artwork layers.
 
