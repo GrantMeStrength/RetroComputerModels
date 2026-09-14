@@ -1,12 +1,12 @@
 # Retro Computer Models
 
 Editable 3D illustrations of classic home and personal computers, plus an
-original fictional concept. Download a
+original fictional computer family. Download a
 **USDZ** for Quick Look, AR or a compatible viewer, or open the **Blender source**
 to edit the geometry, materials and packed textures.
 
-The collection contains **15 models: 14 historical recreations and one original
-fictional concept**. All entries have been visually reviewed and approved for inclusion.
+The collection contains **16 models: 14 historical recreations and two original
+fictional variants**. All entries have been visually reviewed and approved for inclusion.
 The ZX80 includes the completed bottom, supplied top decal, two-sided edge
 contacts and case-colored joining rivets.
 
@@ -32,15 +32,19 @@ limitations and source notes. For a binary file, use GitHub's **Download raw fil
 | <img src="previews/timexSinclair1500.png" width="180" alt="Timex Sinclair 1500 model"> | [Timex Sinclair 1500](ModelSources/Spectrum48TS1500/) | [USDZ](ModelSources/Spectrum48TS1500/timexSinclair1500.usdz) · [Blender](ModelSources/Spectrum48TS1500/timexSinclair1500.blend) |
 | <img src="previews/timexSinclair2068.png" width="180" alt="US Timex Sinclair 2068 model"> | [Timex Sinclair 2068 — US / NTSC](ModelSources/TS2068ReferenceRebuild/) | [USDZ](ModelSources/TS2068ReferenceRebuild/timexSinclair2068.usdz) · [Blender](ModelSources/TS2068ReferenceRebuild/timexSinclair2068.blend) |
 
-### Original fictional concept
+### Original fictional variants
 
-**Retro84 is an original imagined 1984 keyboard computer, not a historical machine.**
-It is one fixed illustrative design, not geometry that automatically reflects
-every game component choice or case style.
+**Retro84 and Retro84 Touch are original imagined 1984 keyboard computers, not
+historical machines.** Touch is a budget pressure-sensitive membrane variant,
+not a modern touchscreen. The game maps “Membrane / Chiclet” to Touch and other
+keyboard choices to the original concept, without changing pricing.
+Both are fixed illustrations, not geometry that automatically reflects every
+game component choice or case style.
 
 | Preview | Model | Downloads |
 |---|---|---|
 | <img src="previews/retro84.png" width="240" alt="Retro84 original fictional keyboard-computer concept"> | [Retro84 — original fictional concept](ModelSources/Retro84/) | [USDZ](ModelSources/Retro84/retro84.usdz) · [Blender](ModelSources/Retro84/retro84.blend) |
+| <img src="previews/retro84Touch.png" width="240" alt="Retro84 Touch original fictional membrane-keyboard computer"> | [Retro84 Touch — fictional membrane variant](ModelSources/Retro84Touch/) | [USDZ](ModelSources/Retro84Touch/retro84Touch.usdz) · [Blender](ModelSources/Retro84Touch/retro84Touch.blend) |
 
 ## What is included
 
@@ -66,8 +70,8 @@ Packed textures let the scenes open without the original workstation.
 Some models join several components into one editable mesh with multiple
 materials; these are not parametric CAD assemblies.
 
-The historical models are **reference-guided exterior illustrations**; Retro84
-is an original fictional product concept. None are engineering drawings,
+The historical models are **reference-guided exterior illustrations**; the Retro84
+family consists of original fictional product concepts. None are engineering drawings,
 certified replicas or ready-to-print replacement enclosures. Rounded edges,
 connector interiors, hidden surfaces and artwork can be approximate. Closed
 individual meshes can intersect and do not imply a fused printable assembly.

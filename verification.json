@@ -2,9 +2,9 @@
   "date": "2026-09-14",
   "blender_version": "5.2.1 LTS",
   "openusd_version": "0.26.8",
-  "model_count": 15,
+  "model_count": 16,
   "standalone_blend_export_validated": "appleIIe",
-  "packed_scene_exports_without_external_texture_files": 15,
+  "packed_scene_exports_without_external_texture_files": 16,
   "preview_pixels_preserved_during_metadata_cleanup": true,
   "usdz_files_identical_to_curated_sources": true,
   "all_distributed_files_below_100MB": true,
@@ -195,6 +195,19 @@
       "usd_warnings": [],
       "native_realitykit_loaded_and_centered": true,
       "revision": "Original fictional keyboard-computer design; fixed illustrative configuration"
+    },
+    {
+      "model": "Retro84 Touch",
+      "isolated_blend_open": true,
+      "source_geometry_uv_material_transforms_preserved": true,
+      "packed_images_unchanged": 5,
+      "scene_content_sha256": "fc568bfc5307c982af829eba270ece14e8e7b6f39947ad15a8dae8b5d60083bf",
+      "mesh_count": 113,
+      "vertices": 16981,
+      "triangles": 33670,
+      "usd_warnings": [],
+      "native_realitykit_loaded_and_centered": true,
+      "revision": "Fictional pressure-sensitive membrane-keyboard variant; not a modern touchscreen"
     }
   ]
 }

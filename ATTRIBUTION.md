@@ -291,3 +291,22 @@ MIT license.
 “Retro84” is the fictional design's name, not a representation that trademark
 clearance has been obtained. The model is a fixed concept illustration, not an
 electrically functional product or automatically configurable game-component system.
+
+## Retro84 Touch original fictional variant
+
+Retro84 Touch is an original fictional membrane-keyboard variant of Retro84,
+not a historical machine or a modern touchscreen product. Its membrane assembly,
+printed zones and Touch branding are original contributions; the retained
+family parts share the [Retro84 design provenance](#retro84-original-fictional-design).
+The root MIT license covers original contributions to the extent the contributor
+owns those rights.
+
+No historical-photo content or third-party mesh topology is bundled. Membrane
+legends and badge typography are original raster artwork using locally available
+Arial/Arial Bold; font files are not distributed or relicensed. The shared
+family artwork retains the font/provenance notes above.
+
+“Budget” describes the fictional design intent, not a verified production cost
+or a game-pricing change. Naming does not assert trademark clearance. The
+fixed membrane illustration is not a functioning electrical input device or
+a general-purpose configurable game-component system.

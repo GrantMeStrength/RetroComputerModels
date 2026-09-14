@@ -156,5 +156,19 @@
     "blend_sha256": "140a21f3995bf801ba84bc66d1e57a202033a59f69c2b9d5cc7f2f86aaa03a64",
     "usdz_sha256": "8d0c0d5042672dcdd69a05084e5cbc02695dcefa514a286673e7ded61d001484",
     "preview_sha256": "7d3058e325f50bfbf9b15cfd535ff3894ee7245e6491659476bd7ea538db2dbd"
+  },
+  {
+    "name": "Retro84 Touch",
+    "status": "reviewed",
+    "category": "original fictional concept",
+    "family": "Retro84",
+    "concept_year": 1984,
+    "blend": "ModelSources/Retro84Touch/retro84Touch.blend",
+    "usdz": "ModelSources/Retro84Touch/retro84Touch.usdz",
+    "preview": "previews/retro84Touch.png",
+    "revision": "Fictional pressure-sensitive membrane-keyboard variant; not a modern touchscreen",
+    "blend_sha256": "af5f72e2b187b780ae80c1379b9bf3d07536518ce3e22592ba1bc172d078304c",
+    "usdz_sha256": "be687eef603ce8a951d9b904fd115a40f49e0859749dd90c0aeddc4a285e7324",
+    "preview_sha256": "3e4074c589f89e6f8c7f8ab4c823593e4bf044e29c1100d64a7207b6f0eca266"
   }
 ]
