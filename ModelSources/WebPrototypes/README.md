@@ -1,7 +1,7 @@
 # Commodore 64 and VIC-20
 
-`commodore64` and `vic20` each include a USDZ, editable Blender scene and two
-prepared artwork textures. The directory name is retained for shared imports;
+`commodore64` and `vic20` each include a USDZ and editable Blender scene with two
+packed artwork textures. The directory name is retained for catalog continuity;
 superseded Apple II/Osborne experiments and comparison scenes are not included.
 
 The 406 × 206 mm C64 enclosure uses original profile/extrusion/Boolean geometry
@@ -16,9 +16,8 @@ and newly drawn VIC-20 artwork. It is not an independently measured VIC-20 case,
 nor a claim of motherboard/connector fit. Both omit rear/side sockets and internal
 fittings; keycap sculpting, small legends and badge typography are simplified.
 
-`reference_c64.py` contains construction profiles and dimensions. Shared geometry
-helpers are in `build_prototypes.py` and `../mesh_utils.py`. `Textures/atlas.json`
-provides UV regions. No third-party mesh or photograph is required by the builder.
+Edit the geometry, materials and packed artwork in the Blender scenes.
+Original reference files and construction/texture inputs are not distributed separately.
 
-See [build instructions](../../BUILDING.md) and
+See [editing/export instructions](../../USAGE.md) and
 [mandatory reference attribution](../../ATTRIBUTION.md#commodore-64-and-vic-20).

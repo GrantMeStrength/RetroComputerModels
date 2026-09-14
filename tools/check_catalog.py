@@ -8,6 +8,9 @@ import zipfile
 ROOT = Path(__file__).resolve().parents[1]
 catalog = json.loads((ROOT / "catalog.json").read_text())
 assert len({m["name"] for m in catalog}) == len(catalog), "Duplicate model names"
+for path in (ROOT / "ModelSources").rglob("*"):
+    if path.is_file():
+        assert path.suffix in {".blend", ".usdz", ".md"}, f"Unexpected standalone resource: {path}"
 for field, extension, folder in [("blend", ".blend", "ModelSources"),
                                   ("usdz", ".usdz", "ModelSources"),
                                   ("preview", ".png", "previews")]:

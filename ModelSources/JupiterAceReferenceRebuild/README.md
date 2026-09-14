@@ -11,9 +11,9 @@ replacement/replica rather than original 1982 tooling.
 The bottom defines a nominal 3 mm skin, four circular foot seats, front bores,
 rear countersink and six speaker slots. It excludes reference-only deep internal
 tabs, ribs, bosses and a disconnected bar. Foot seats are not invented rubber feet.
-`socket-measurements.json` records fitted side opening positions/radii;
-the original short upper/lower profiles and analytic underside construction are
-in `build_model.py`. No raw CAD or large section/vertex dump is needed.
+Side openings follow fitted reference positions/radii; the editable scene retains
+the original profile/underside construction. No raw CAD, section/vertex dump or
+separate measurement input is included.
 
 Key dimensions, crowns, radii and tiny artwork are visual estimates.
 Typography/graphics are approximations, not production printing masters.
@@ -21,5 +21,5 @@ Connector collars/backings are schematic: there are no certified contacts,
 pin counts or electrical fit claims. Internal electronics and unsupported
 fastener/serial details are omitted.
 
-See [build instructions](../../BUILDING.md) and
+See [editing/export instructions](../../USAGE.md) and
 [source attribution](../../ATTRIBUTION.md#jupiter-ace).

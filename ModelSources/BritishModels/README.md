@@ -4,9 +4,8 @@
 
 The 411 × 350 × 73 mm exterior was selected within supplied dimensional ranges.
 A supplied miniature informed case planes and keyboard relationships, not
-full-size hardware metrology. `../ReferenceStudies/bbc-measurements.json`
-preserves the observations required by the original builder; no miniature
-mesh is included or imported.
+full-size hardware metrology. Neither the miniature mesh nor separate measurement
+inputs are distributed; the finished scene contains newly constructed geometry.
 
 The sloping cream two-piece case has a continuous recessed keyboard/legend
 strip, 74 tapered/dished keys, ten red function keys and three indicators.
@@ -26,9 +25,9 @@ photographic details. Regional markings may differ between the supplied views.
 The shell's front/rear height split is photo-fitted, not separately measured.
 
 Both are closed-part visual assemblies, not printable manufacturing solids.
-`layouts.py`, `bbc_keyboard.py` and prepared atlas/textures are construction
-inputs. Shared helpers are imported from `../WebPrototypes/`.
+Edit their geometry/materials directly in Blender; necessary artwork is packed.
+Original supplied images and construction inputs are not included separately.
 
-See [build instructions](../../BUILDING.md) and
+See [editing/export instructions](../../USAGE.md) and
 [BBC](../../ATTRIBUTION.md#bbc-micro-model-b) /
 [CPC photo rights and credits](../../ATTRIBUTION.md#amstrad-cpc-464).

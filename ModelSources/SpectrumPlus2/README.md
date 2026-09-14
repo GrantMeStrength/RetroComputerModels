@@ -12,11 +12,11 @@ bevels and thin artwork surfaces account for the small difference.
 No serial number or exact PCB revision is asserted.
 
 Rear/side legends use orthonormal mapping at 32 pixels/mm, preserving text
-aspect rather than stretching fixed-width labels. `case-label-layout.json`,
-`artwork-layout.json` and both prepared PNG atlases are required build inputs.
+aspect rather than stretching fixed-width labels. Both necessary PNG atlases
+are packed in the model; no separate layout/texture inputs are required.
 Profiles, radii, lower-case inset, seam, socket dimensions, contact details and
 cassette mechanisms remain inferred. Primary keys are represented; some small
 secondary legends are incomplete. Hidden underside/serial details are omitted.
 
-See [build instructions](../../BUILDING.md) and
+See [editing/export instructions](../../USAGE.md) and
 [source attribution](../../ATTRIBUTION.md#original-grey-sinclair-zx-spectrum-2).

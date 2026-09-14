@@ -14,9 +14,9 @@ The silver upper **and lower** Timex case has its own SHIFT / full-stop / SPACE
 row, badge, shallow top vents, narrower covered expansion opening, different
 RF/audio placement and photographed underside detail. Both are marked **9V DC**.
 
-`layouts.py` contains separate photograph-registered key centers and widths.
-The exact prepared photographic panels and original rear-label atlases are
-included. A uniform projected UV scale is retained on raised key tops; baked
+The two scenes retain separate photograph-registered key centers and widths.
+Necessary photographic panels and original rear-label atlases are packed in
+the models, not distributed separately. A uniform projected UV scale is retained on raised key tops; baked
 key shadows are cleaned underneath. Timex underside text is oriented for a
 viewer below, not mirrored. Its photographed serial label represents one specimen.
 
@@ -31,5 +31,5 @@ Timex underside slots, screw wells, hole group and asymmetrical feet follow the
 supplied photograph. The Spectrum underside is deliberately plain beyond feet
 because no suitable underside source was available.
 
-See [build instructions](../../BUILDING.md) and
+See [editing/export instructions](../../USAGE.md) and
 [photo/source attribution](../../ATTRIBUTION.md#sinclair-zx-spectrum-48k-and-timex-sinclair-1500).

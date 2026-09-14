@@ -12,7 +12,7 @@ The final ZX80 revision is pending and is not included yet.
 ## Catalog
 
 Previews show the models, not reference photographs. Click a model name for its
-construction notes. For a binary file, use GitHub's **Download raw file** button.
+limitations and source notes. For a binary file, use GitHub's **Download raw file** button.
 
 | Preview | Model | Downloads |
 |---|---|---|
@@ -32,13 +32,19 @@ construction notes. For a binary file, use GitHub's **Download raw file** button
 ## What is included
 
 - One current `.usdz`, packed-texture `.blend` and standalone preview per model.
-- Construction scripts, their required authored measurements/layouts, and the
-  exact prepared textures. No reference meshes are required to run the builders.
-- [Build and export instructions](BUILDING.md), [source credits and rights](ATTRIBUTION.md),
-  and a machine-readable [catalog](catalog.json) with USDZ SHA-256 checksums.
+- [Usage and export instructions](USAGE.md), minimal export/check tooling,
+  [source credits and rights](ATTRIBUTION.md), and a machine-readable
+  [catalog](catalog.json) with asset SHA-256 checksums.
 - [Verification results](verification.json): isolated packed-scene opening,
-  unchanged source geometry/artwork, actual reconstruction/export tests,
+  unchanged source geometry/artwork, a packed-scene export test,
   OpenUSD validation and native RealityKit loading/centering.
+
+**Original supplied files are not included separately:** no source photographs,
+decals, CAD/STLs or reference archives. Separate texture folders, measurement
+inputs and construction/research pipelines are also omitted. Necessary textures
+remain embedded in each model so the finished appearance and editability are
+preserved. Edit/export from the packed Blender scene; a raw-reference rebuild
+is not part of this distribution.
 
 USDZ assets contain model geometry and embedded textures, in metres with Y up.
 Blender files retain their editable component structure and, where present,

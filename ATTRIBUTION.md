@@ -14,8 +14,11 @@ it is not an independent verification of ownership, an unrestricted sublicense,
 or a claim that unknown authors have licensed their work under MIT. Where the
 underlying creator or downstream terms are unresolved, preserve these notices
 and obtain clarification from the contributor before assuming additional rights.
-No raw third-party STL/3MF, separately downloaded website photograph, brochure,
-reference screenshot or photographic comparison sheet is distributed.
+No original supplied photograph, decal, CAD/STL/3MF or reference archive is
+distributed separately. No downloaded website photograph, brochure, reference
+screenshot or photographic comparison sheet is distributed. Necessary derived
+textures remain packed in the Blender/USDZ models and appear in their previews;
+there are no standalone texture or measurement-input folders.
 
 Brand names, logos and historical product markings identify the modeled objects.
 Trademark rights remain with their owners; no manufacturer, museum, photographer
@@ -48,8 +51,8 @@ URLs and file identity have not independently been established.
 The contributor confirms redistribution permission for the supplied copies.
 
 Changes: cropped/mildly perspective-corrected panels, UV mapping, and placement on
-new enclosure/drive geometry. Photograph pixels appear in `Textures/front-panel.png`
-and `Textures/back-panel.png`, the packed Blender/USDZ, and their preview.
+new enclosure/drive geometry. Photograph pixels appear in the packed images
+`front-panel.png` and `back-panel.png` inside the Blender/USDZ, and their preview.
 Retain the photographer credit and CC BY 3.0 notice.
 
 ## BBC Micro Model B
@@ -72,8 +75,8 @@ the supplied images' derivatives.
 
 Case/profile dimensions were informed by a supplied miniature,
 `BBC+Micro+B+v31+0.2mm+Nozzle.3mf`. Its author/license is unresolved; it is not
-redistributed. `ReferenceStudies/bbc-measurements.json` contains dimensional
-observations used by the original construction script, not source mesh topology.
+redistributed. Dimensional observations informed newly constructed geometry,
+not copied source mesh topology; the measurement inputs are not distributed.
 [jsbeeb's key map](https://github.com/mattgodbolt/jsbeeb/blob/main/src/keymap.js)
 was used to check factual keyboard legends. No emulator implementation is included.
 
@@ -88,8 +91,8 @@ verified; the contributor confirms permission to redistribute the supplied copie
 
 Changes: crop/rectification, removal of external white background, UV mapping
 of individual raised keys, cassette surfaces and rear/side panels on newly
-constructed geometry. All `Textures/amstradCPC464-*` images and the packed
-model/preview contain derivatives. Source credit/watermark information is not
+constructed geometry. Packed `amstradCPC464-*` images inside the model and its
+preview contain derivatives. Source credit/watermark information is not
 replaced with a claim of original photographic authorship.
 
 ## Sinclair ZX81
@@ -99,20 +102,20 @@ Supplied `zx81-top.png`, `zx81-side.png`, `zx81-back.png` are credited to
 who confirms redistribution permission. No separate permissive photographic
 license is asserted. Changes: inverse-homography rectification, cropping,
 background/highlight removal, separate rear plane mappings and UV mapping.
-The three `Textures/*.jpg` files and the packed model/preview contain derivatives.
+The three packed JPEG textures and the model preview contain derivatives.
 
 The supplied `zx81_case_top.stl` / `zx81_case_bottom.stl` were measurement references
 only; authorship/license was not established. They are not distributed, and their
-topology is not in the model. Original analytic contour samples are in the builder.
+topology is not in the model. The editable scene contains the original constructed geometry.
 
 ## Jupiter Ace
 
 The supplied `jupiter-ace-Top-Rear.stl`, `jupiter-ace-Keyboard.stl` and
 `jupiter-ace-Bottom.stl` informed measurements, but their author/version/license
 and relationship to original production hardware are unverified. They are not
-distributed; no reference topology is imported by the builder.
+distributed; no reference topology is included in the model.
 
-The two `Textures/*-original.png` images are newly drawn lettering/key artwork,
+The two packed `*-original.png` images are newly drawn lettering/key artwork,
 not photo textures. A supplied machine photograph was a visual reference;
 photographer identity was not established and the photograph is not included.
 
@@ -174,7 +177,7 @@ independently been established. The contributor confirms redistribution permissi
 for these supplied materials; no MIT grant for the photographs is implied.
 
 Changes: independent planar rectification, keyboard registration, crop/UV mapping
-and cleanup under the raised keys. `Textures/*.jpg` and the packed models/previews
+and cleanup under the raised keys. Packed JPEG textures and the models/previews
 contain derivatives. The Timex underside compliance/serial label depicts the
 photographed specimen; it is not a serial identity assigned to every modeled TS1500.
 Rear-label PNGs are newly drawn lettering.

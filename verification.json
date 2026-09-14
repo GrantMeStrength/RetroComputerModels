@@ -4,6 +4,7 @@
   "openusd_version": "0.26.8",
   "model_count": 12,
   "standalone_blend_export_validated": "appleIIe",
+  "packed_scene_exports_without_external_texture_files": 12,
   "preview_pixels_preserved_during_metadata_cleanup": true,
   "usdz_files_identical_to_curated_sources": true,
   "all_distributed_files_below_100MB": true,
@@ -19,7 +20,6 @@
       "vertices": 5131,
       "triangles": 9942,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -32,7 +32,6 @@
       "vertices": 5131,
       "triangles": 9942,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -45,7 +44,6 @@
       "vertices": 504,
       "triangles": 964,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -58,7 +56,6 @@
       "vertices": 10048,
       "triangles": 19760,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -71,7 +68,6 @@
       "vertices": 4970,
       "triangles": 9584,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -84,7 +80,6 @@
       "vertices": 10601,
       "triangles": 21182,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -97,7 +92,6 @@
       "vertices": 25531,
       "triangles": 50858,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -110,7 +104,6 @@
       "vertices": 17474,
       "triangles": 34420,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -123,7 +116,6 @@
       "vertices": 19130,
       "triangles": 37916,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -136,7 +128,6 @@
       "vertices": 18231,
       "triangles": 35794,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -149,7 +140,6 @@
       "vertices": 8536,
       "triangles": 16748,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     },
     {
@@ -162,7 +152,6 @@
       "vertices": 13954,
       "triangles": 27672,
       "usd_warnings": [],
-      "portable_geometry_rebuild_validated": true,
       "native_realitykit_loaded_and_centered": true
     }
   ]

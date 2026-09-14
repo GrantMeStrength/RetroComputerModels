@@ -15,9 +15,8 @@ Feet, lid seam and drive projection are estimated. Rear sockets/fan/screws and
 front controls are predominantly photographic details, not functional geometry.
 Baked photographic illumination/wear remains.
 
-`build_model.py` uses the two supplied prepared panel textures. Its `--depth`
-argument controls the assumed depth in metres (default 0.40). No raw photo
-preparation is needed for the published reconstruction.
+Both necessary panel textures are packed in the Blender/USDZ files. Edit the
+scene directly; the original photographs and construction inputs are not included separately.
 
-See [build instructions](../../BUILDING.md) and
+See [editing/export instructions](../../USAGE.md) and
 [Paul Flo Williams / CC BY 3.0 photo credit](../../ATTRIBUTION.md#research-machines-380z).
