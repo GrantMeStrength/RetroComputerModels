@@ -2,7 +2,7 @@
 
 ## Scope of the repository license
 
-The unchanged root [LICENSE](LICENSE) is MIT, copyright 2026 John Kennedy.
+The root [LICENSE](LICENSE) is MIT, copyright 2026 John Kennedy.
 It applies to original code/model contributions to the extent the contributor
 owns those rights. Third-party photographs, decals and other protected material
 remain subject to their owners' rights and applicable notices. Their appearance

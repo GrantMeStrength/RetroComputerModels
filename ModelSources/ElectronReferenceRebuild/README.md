@@ -1,7 +1,6 @@
 # Acorn Electron
 
-`electron-review` is the retained filename of the visually reviewed model.
-It contains a rounded split-shell loft, recessed keyboard, 56 tapered and
+This model contains a rounded split-shell loft, recessed keyboard, 56 tapered and
 dished keycaps, rear vent banks, connector openings, badge grid and newly
 drawn legends. No photographic pixels are used as textures.
 
@@ -18,6 +17,7 @@ vents, screw patterns and labels are not invented. The unverified power-entry
 side is left plain. Branding and BASIC legends are approximate original artwork.
 
 All three necessary artwork textures are packed inside the scene.
+Open `electron-review.blend` to edit or `electron-review.usdz` to view.
 Edit/export directly from Blender; no original photograph, brochure, separate
 texture folder or construction pipeline is included.
 

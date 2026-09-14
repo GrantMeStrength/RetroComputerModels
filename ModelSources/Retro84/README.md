@@ -34,8 +34,7 @@ Hiding a port does not close its enclosure aperture.
 rubber, key, metal and badge materials intact when recoloring. Some printed
 backgrounds are baked into the atlases: a different case/key color may also
 require editing and repacking the matching artwork, not only changing a
-plastic material. No generator, earlier-name backup or raw design pipeline is
-included.
+plastic material. Generators and raw design inputs are not included.
 
 See [editing/export instructions](../../USAGE.md) and
 [original-design rights notes](../../ATTRIBUTION.md#retro84-original-fictional-design).

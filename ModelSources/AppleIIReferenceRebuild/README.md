@@ -12,11 +12,11 @@ and 5.5-unit spacebar. It includes both Apple keys, Caps Lock and four cursor
 keys. Proportions are diagram-derived, not physical caliper measurements;
 typography, colors, keycap sculpting and the assumed 19.05 mm pitch remain approximate.
 
-The 62-key main bank retains balanced **10.3875 mm** outer clearances.
-The isolated RESET key/pocket is unchanged. A localized **6 mm DELETE-corner
-aperture relief** accommodates the wider US key while retaining a 2.875 mm
-case bridge to RESET. Outside the keyboard and this necessary local opening
-change, the existing case/rear geometry and non-keyboard artwork are preserved.
+The 62-key main bank has balanced **10.3875 mm** outer clearances.
+RESET sits in a separate pocket. A localized **6 mm DELETE-corner aperture
+relief** accommodates the wider US key, with a 2.875 mm case bridge to RESET.
+The case/rear geometry and non-keyboard artwork reflect the Italian/PAL specimen,
+not a fully US-spec machine.
 
 Nominal envelope: **382.5875 × 463.55 × 109.5375 mm**, including feet and rear
 lid tabs, based on LaserMaster's community measurement of an IIe rather than
@@ -28,8 +28,8 @@ Monitor, DuoDisk, dangling cable and internal hardware are not included.
 
 Open `appleIIe.blend` to edit the geometry/materials and four packed artwork
 images, or `appleIIe.usdz` to view. The US key atlas is newly drawn; no manual
-diagram or photograph pixels are embedded. No Italian backup, original supplied
-input, reference image, manual PDF or construction pipeline is included separately.
+diagram or photograph pixels are embedded. Original supplied inputs, reference
+images, manual PDFs and construction pipelines are not included separately.
 
 See [editing/export instructions](../../USAGE.md) and
 [Apple manual, case-reference and dimensional attribution](../../ATTRIBUTION.md#apple-iie).

@@ -6,9 +6,7 @@ original fictional computer family. Download a
 to edit the geometry, materials and packed textures.
 
 The collection contains **16 models: 14 historical recreations and two original
-fictional variants**. All entries have been visually reviewed and approved for inclusion.
-The ZX80 includes the completed bottom, supplied top decal, two-sided edge
-contacts and case-colored joining rivets.
+fictional variants**.
 
 ## Catalog
 
@@ -52,8 +50,8 @@ game component choice or case style.
 - [Usage and export instructions](USAGE.md), minimal export/check tooling,
   [source credits and rights](ATTRIBUTION.md), and a machine-readable
   [catalog](catalog.json) with asset SHA-256 checksums.
-- [Verification results](verification.json): isolated packed-scene opening,
-  unchanged source geometry/artwork, a packed-scene export test,
+- [Verification results](verification.json): self-contained Blender opening,
+  packed-scene export compatibility, mesh and texture counts,
   OpenUSD validation and native RealityKit loading/centering.
 
 **Original supplied files are not included separately:** no source photographs,
@@ -66,7 +64,7 @@ is not part of this distribution.
 USDZ assets contain model geometry and embedded textures, in metres with Y up.
 Blender files retain their editable component structure and, where present,
 preview cameras/lights. Named preview grounds and studios are not model parts.
-Packed textures let the scenes open without the original workstation.
+Packed textures let the scenes open without separate texture files.
 Some models join several components into one editable mesh with multiple
 materials; these are not parametric CAD assemblies.
 

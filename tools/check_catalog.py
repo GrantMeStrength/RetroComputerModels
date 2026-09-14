@@ -7,6 +7,11 @@ import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
 catalog = json.loads((ROOT / "catalog.json").read_text())
+required = {"name", "blend", "usdz", "preview", "blend_sha256", "usdz_sha256", "preview_sha256"}
+optional = {"revision", "category", "family", "concept_year"}
+for model in catalog:
+    assert required <= model.keys(), f"Missing catalog fields: {required - model.keys()}"
+    assert model.keys() <= required | optional, f"Unknown catalog fields: {model.keys() - required - optional}"
 assert len({m["name"] for m in catalog}) == len(catalog), "Duplicate model names"
 for path in (ROOT / "ModelSources").rglob("*"):
     if path.is_file():

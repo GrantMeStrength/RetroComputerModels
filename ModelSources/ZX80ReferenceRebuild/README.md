@@ -1,6 +1,6 @@
 # Sinclair ZX80
 
-The completed exterior includes the full lower case, blue 40-key membrane
+The exterior includes the full lower case, blue 40-key membrane
 keyboard, supplied Sinclair/ZX80 top decal, seven cosmetic rear stripes and
 seven **case-colored plastic joining rivets**. The underside retains the
 reference-informed grooves, troughs, recesses and asymmetric rear clearances;

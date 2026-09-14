@@ -1,7 +1,6 @@
 [
   {
     "name": "Commodore 64",
-    "status": "reviewed",
     "blend": "ModelSources/WebPrototypes/commodore64.blend",
     "usdz": "ModelSources/WebPrototypes/commodore64.usdz",
     "preview": "previews/commodore64.png",
@@ -11,7 +10,6 @@
   },
   {
     "name": "Commodore VIC-20",
-    "status": "reviewed",
     "blend": "ModelSources/WebPrototypes/vic20.blend",
     "usdz": "ModelSources/WebPrototypes/vic20.usdz",
     "preview": "previews/vic20.png",
@@ -21,7 +19,6 @@
   },
   {
     "name": "Research Machines 380Z",
-    "status": "reviewed",
     "blend": "ModelSources/RM380Z/researchMachines380Z.blend",
     "usdz": "ModelSources/RM380Z/researchMachines380Z.usdz",
     "preview": "previews/researchMachines380Z.png",
@@ -31,7 +28,6 @@
   },
   {
     "name": "BBC Micro Model B",
-    "status": "reviewed",
     "blend": "ModelSources/BritishModels/bbcMicro.blend",
     "usdz": "ModelSources/BritishModels/bbcMicro.usdz",
     "preview": "previews/bbcMicro.png",
@@ -41,7 +37,6 @@
   },
   {
     "name": "Amstrad CPC 464",
-    "status": "reviewed",
     "blend": "ModelSources/BritishModels/amstradCPC464.blend",
     "usdz": "ModelSources/BritishModels/amstradCPC464.usdz",
     "preview": "previews/amstradCPC464.png",
@@ -51,18 +46,16 @@
   },
   {
     "name": "Sinclair ZX80",
-    "status": "reviewed",
     "blend": "ModelSources/ZX80ReferenceRebuild/zx80.blend",
     "usdz": "ModelSources/ZX80ReferenceRebuild/zx80.usdz",
     "preview": "previews/zx80.png",
-    "revision": "Completed bottom, supplied top decal, 1.6 mm PCB with two-sided contacts, plastic rivets and support clearance",
+    "revision": "Full bottom, supplied top decal, 1.6 mm PCB with two-sided contacts, plastic rivets and support clearance",
     "blend_sha256": "cd4a9f6db7ebbc8228f938fcaf10bd82e1e628592a8f8767c3dd4e3fe25b0a7d",
     "usdz_sha256": "6774f1257ab88b4ea8c2b0e5542eb7ef9d17e7048a96be892a4f21051e4e06ac",
     "preview_sha256": "7581d1f5c647eff349ab9e4b026e84fbc100f577de4269019053dd134312c1e5"
   },
   {
     "name": "Sinclair ZX81",
-    "status": "reviewed",
     "blend": "ModelSources/ZX81ReferenceRebuild/zx81.blend",
     "usdz": "ModelSources/ZX81ReferenceRebuild/zx81.usdz",
     "preview": "previews/zx81.png",
@@ -72,7 +65,6 @@
   },
   {
     "name": "Jupiter Ace",
-    "status": "reviewed",
     "blend": "ModelSources/JupiterAceReferenceRebuild/jupiterAce.blend",
     "usdz": "ModelSources/JupiterAceReferenceRebuild/jupiterAce.usdz",
     "preview": "previews/jupiterAce.png",
@@ -82,7 +74,6 @@
   },
   {
     "name": "Acorn Electron",
-    "status": "reviewed",
     "blend": "ModelSources/ElectronReferenceRebuild/electron-review.blend",
     "usdz": "ModelSources/ElectronReferenceRebuild/electron-review.usdz",
     "preview": "previews/electron-review.png",
@@ -92,18 +83,16 @@
   },
   {
     "name": "Apple IIe (US keyboard variant)",
-    "status": "reviewed",
     "blend": "ModelSources/AppleIIReferenceRebuild/appleIIe.blend",
     "usdz": "ModelSources/AppleIIReferenceRebuild/appleIIe.usdz",
     "preview": "previews/appleIIe.png",
     "usdz_sha256": "415e4085cec6b6e6f8e128e80d9eb533bb01120f0889e5ac9f6d935a878c301c",
     "blend_sha256": "d786050fe849c33967ca61c6c3350f0bc3fbdc05a2d5f8e50a5da3fa08bbda9b",
     "preview_sha256": "8684744e1f30935b7f587caf2409708afd8e1628414e2706d89cf85ed22eabfc",
-    "revision": "63-key US QWERTY keyboard; existing case/rear configuration retained"
+    "revision": "63-key US QWERTY keyboard with Italian/PAL case and rear configuration"
   },
   {
     "name": "Sinclair ZX Spectrum +2 (original grey)",
-    "status": "reviewed",
     "blend": "ModelSources/SpectrumPlus2/spectrum-plus2.blend",
     "usdz": "ModelSources/SpectrumPlus2/spectrum-plus2.usdz",
     "preview": "previews/spectrum-plus2.png",
@@ -113,29 +102,26 @@
   },
   {
     "name": "Sinclair ZX Spectrum 48K",
-    "status": "reviewed",
     "blend": "ModelSources/Spectrum48TS1500/zxSpectrum.blend",
     "usdz": "ModelSources/Spectrum48TS1500/zxSpectrum.usdz",
     "preview": "previews/zxSpectrum.png",
     "usdz_sha256": "d8f1ff0a2aa5b589d7e5c2f78549ef18aa155b11b0f943a1e1bd713f44296837",
     "blend_sha256": "5d2eb73b4dccbb2629924afd5181f1a56de4e92dfbbeb223ee56a0cfae316d75",
     "preview_sha256": "5c73291996a926efe7c75641cfb1e50a1e45045eafd43ad48d86ddf63acdfafe",
-    "revision": "45-degree straight joining ramps with small rounded joins; flat rubber-key tops retained"
+    "revision": "45-degree straight joining ramps with small rounded joins; flat rubber-key tops"
   },
   {
     "name": "Timex Sinclair 1500",
-    "status": "reviewed",
     "blend": "ModelSources/Spectrum48TS1500/timexSinclair1500.blend",
     "usdz": "ModelSources/Spectrum48TS1500/timexSinclair1500.usdz",
     "preview": "previews/timexSinclair1500.png",
     "usdz_sha256": "5cf6ce87f517fdab625875b22e81a4f9ed5c3fbd5c1382161eba1802a7ff3c39",
     "blend_sha256": "b5f42b4ab1ccdcc6196f2bf8dc7c466ca1111876d13a38aa19b63973d9d27736",
     "preview_sha256": "973ba4369ad6694288392ac34201c91b8a4e4f154f32b8e64bdb4a6773264a27",
-    "revision": "45-degree straight joining ramps with small rounded joins; flat rubber-key tops retained"
+    "revision": "45-degree straight joining ramps with small rounded joins; flat rubber-key tops"
   },
   {
     "name": "Timex Sinclair 2068 (US / NTSC)",
-    "status": "reviewed",
     "blend": "ModelSources/TS2068ReferenceRebuild/timexSinclair2068.blend",
     "usdz": "ModelSources/TS2068ReferenceRebuild/timexSinclair2068.usdz",
     "preview": "previews/timexSinclair2068.png",
@@ -146,7 +132,6 @@
   },
   {
     "name": "Retro84",
-    "status": "reviewed",
     "category": "original fictional concept",
     "concept_year": 1984,
     "blend": "ModelSources/Retro84/retro84.blend",
@@ -159,7 +144,6 @@
   },
   {
     "name": "Retro84 Touch",
-    "status": "reviewed",
     "category": "original fictional concept",
     "family": "Retro84",
     "concept_year": 1984,
