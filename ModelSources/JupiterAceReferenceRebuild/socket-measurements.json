@@ -1,0 +1,42 @@
+{
+  "right": [
+    {
+      "center_yz_stl": [
+        -170.44249672275626,
+        -4.076099873479845
+      ],
+      "radius_assumed_mm": 4.997735881533216,
+      "inlier_points": 238,
+      "max_residual": 0.024456043091863222
+    },
+    {
+      "center_yz_stl": [
+        -183.6764035991121,
+        -4.081088348783721
+      ],
+      "radius_assumed_mm": 5.000621227282857,
+      "inlier_points": 234,
+      "max_residual": 0.024802144053248654
+    },
+    {
+      "center_yz_stl": [
+        -123.33583815534911,
+        2.23024816105358
+      ],
+      "radius_assumed_mm": 7.047581014793478,
+      "inlier_points": 73,
+      "max_residual": 0.02494170141398122
+    }
+  ],
+  "left": [
+    {
+      "center_yz_stl": [
+        -181.93315870387744,
+        -4.07821501119857
+      ],
+      "radius_assumed_mm": 5.001922504312656,
+      "inlier_points": 223,
+      "max_residual": 0.02494982064317597
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "status": "Reference-derived Italian PAL Apple IIe",
+  "target": "Pre-Platinum Italian PAL Apple IIe, matching Oldcomputr's 1983 specimen",
+  "dimension_source": "https://www.applefritter.com/comment/94753#comment-94753",
+  "dimension_evidence": "LaserMaster's 2021-10-11 direct IIe measurement: 4.3125 inches high including standard feet, 15.0625 inches wide, 18.25 inches deep including lid tabs. Secondary community measurement; not this specimen's metrology.",
+  "nominal_dimensions_mm_width_depth_height": [
+    382.5875,
+    463.55,
+    109.5375
+  ],
+  "shell_depth_mm": 457.2,
+  "rear_lid_tab_projection_mm_assumption": 6.35,
+  "dimension_uncertainty": "Width/height/depth are provisional published dimensions. The assumed split of 457.2 mm shell plus 6.35 mm lid-tab projection has not been physically measured. Detachable cables and accessories excluded.",
+  "provided_photo_revision": "Italian PAL Apple IIe, positively matched to Oldcomputr's full views and keyboard photographs",
+  "keyboard_centering_correction": {
+    "main_key_count": 62,
+    "rigid_translation_mm": [
+      -2.2249966859817505,
+      0,
+      0
+    ],
+    "main_opening_center_x_mm": -11.749997735023499,
+    "final_clearances_mm_left_right": [
+      10.387495160102844,
+      10.387495160102844
+    ],
+    "isolated_reset": "Unchanged and independently centered in its own opening",
+    "evidence": "Clearances checked against saved-scene wall planes and key mesh vertices"
+  },
+  "side_photo_landmarks_pixels_x_y": {
+    "front_nose_lower": [
+      49,
+      234
+    ],
+    "front_nose_middle": [
+      49,
+      216
+    ],
+    "front_nose_upper": [
+      62,
+      194
+    ],
+    "fascia_step_lower": [
+      466,
+      112
+    ],
+    "fascia_step_upper": [
+      478,
+      97
+    ],
+    "slope_flat_transition": [
+      681,
+      50
+    ],
+    "rear_lid_corner": [
+      1225,
+      50
+    ],
+    "rear_upper_chamfer": [
+      1240,
+      66
+    ],
+    "rear_bottom": [
+      1257,
+      328
+    ],
+    "bottom_front_transition": [
+      217,
+      333
+    ],
+    "rubber_ground": [
+      1000,
+      347
+    ]
+  },
+  "side_profile_y_z_mm": [
+    [
+      -228.6,
+      42.92
+    ],
+    [
+      -228.6,
+      49.72
+    ],
+    [
+      -223.66,
+      56.42
+    ],
+    [
+      -70.77,
+      86.67
+    ],
+    [
+      -66.17,
+      92.2
+    ],
+    [
+      11.15,
+      109.5375
+    ],
+    [
+      216.91,
+      109.5375
+    ],
+    [
+      222.69,
+      103.6
+    ],
+    [
+      228.6,
+      6.8
+    ],
+    [
+      225.63,
+      4.87
+    ],
+    [
+      -165.0,
+      4.87
+    ]
+  ],
+  "rear_photo_mapping": {
+    "left_case_x_px": 66,
+    "right_case_x_px": 1097,
+    "case_center_x_px": 581.5,
+    "floor_y_px": 317,
+    "top_y_px": 22,
+    "mm_per_x_pixel": 0.371084,
+    "mm_per_z_pixel": 0.371314,
+    "agreement": "Rear width- and height-derived scales differ by about 0.06%; front/back dimensions are mutually consistent at this precision.",
+    "panel_bounds_x1_y1_x2_y2": [
+      187,
+      79,
+      974,
+      302
+    ],
+    "blank_apertures": {
+      "2": [
+        265,
+        97,
+        302,
+        208
+      ],
+      "3": [
+        325,
+        96,
+        366,
+        209
+      ],
+      "4": [
+        385,
+        96,
+        426,
+        209
+      ],
+      "6": [
+        454,
+        190,
+        493,
+        267
+      ],
+      "7": [
+        517,
+        96,
+        557,
+        230
+      ],
+      "9": [
+        579,
+        190,
+        620,
+        268
+      ],
+      "11": [
+        714,
+        96,
+        752,
+        272
+      ],
+      "12": [
+        803,
+        98,
+        940,
+        139
+      ]
+    },
+    "populated_connector_centers_px": {
+      "slot1_vertical_DB25": [
+        222,
+        151
+      ],
+      "slot5_vertical_DE9": [
+        477,
+        144
+      ],
+      "game_DE9": [
+        339,
+        257
+      ],
+      "composite_video_RCA": [
+        216,
+        256
+      ],
+      "cassette_in": [
+        254,
+        256
+      ],
+      "cassette_out": [
+        279,
+        256
+      ],
+      "IEC_mains_inlet": [
+        845,
+        236
+      ],
+      "power_rocker": [
+        934,
+        234
+      ]
+    }
+  },
+  "unmeasured_assumptions": {
+    "keyboard_pitch_mm": 19.05,
+    "rear_keyboard_row_center_y_mm": -85,
+    "key_count": 63,
+    "key_base_depth_mm": 17.5,
+    "return_key_depth_mm": 36.55,
+    "return_key_width_units": 1,
+    "bottom_row_width_units": [
+      2,
+      1.5,
+      6,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "key_scoop_depth_mm": 1.1,
+    "main_keyboard_opening_mm_width_depth": [
+      295.5,
+      117
+    ],
+    "shell_edge_radius_mm": 2.1,
+    "upper_flank_radius_mm": 8.0,
+    "removable_lid_width_mm": 292.0,
+    "vent_count_each_side": 18,
+    "vent_pitch_mm": 9.7,
+    "vent_width_mm": 3.5,
+    "connector_depths": "Estimated from conventional physical connector envelopes; rear photograph constrains projected positions, not depth.",
+    "keyboard_artwork": "Original redrawing of visible Italian primary legends and selected dual-layout legends, not a factory font recreation."
+  },
+  "reference_roles": {
+    "supplied_side_and_rear": "Primary IIe case profile, rear feature locations and relative dimensions",
+    "oldcomputr_without_lid": "Primary proof that removable lid includes sloping badge fascia, with narrow side rails and isolated RESET pocket",
+    "oldcomputr_italian_keyboard": "Primary 63-key layout, tall Return, QZERTY Italian legends, open/closed Apple keys and four arrows",
+    "old_original_II_app_photo": "Excluded from IIe geometry, keyboard and badging decisions"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "atlas_size_px": [
+    1024,
+    2560
+  ],
+  "labels": {
+    "9V DC": {
+      "atlas_xywh_px": [
+        8,
+        8,
+        244,
+        72
+      ],
+      "ink_size_px": [
+        232,
+        60
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        7.625,
+        2.25
+      ]
+    },
+    "EXPANSION I/O": {
+      "atlas_xywh_px": [
+        8,
+        264,
+        599,
+        72
+      ],
+      "ink_size_px": [
+        587,
+        60
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        18.71875,
+        2.25
+      ]
+    },
+    "RS232 /\nMIDI": {
+      "atlas_xywh_px": [
+        8,
+        520,
+        309,
+        156
+      ],
+      "ink_size_px": [
+        297,
+        144
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        9.65625,
+        4.875
+      ]
+    },
+    "KEYPAD": {
+      "atlas_xywh_px": [
+        8,
+        776,
+        327,
+        70
+      ],
+      "ink_size_px": [
+        315,
+        58
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        10.21875,
+        2.1875
+      ]
+    },
+    "RGB": {
+      "atlas_xywh_px": [
+        8,
+        1032,
+        182,
+        72
+      ],
+      "ink_size_px": [
+        170,
+        60
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        5.6875,
+        2.25
+      ]
+    },
+    "TV": {
+      "atlas_xywh_px": [
+        8,
+        1288,
+        112,
+        70
+      ],
+      "ink_size_px": [
+        100,
+        58
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        3.5,
+        2.1875
+      ]
+    },
+    "SOUND": {
+      "atlas_xywh_px": [
+        8,
+        1544,
+        295,
+        72
+      ],
+      "ink_size_px": [
+        283,
+        60
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        9.21875,
+        2.25
+      ]
+    },
+    "USE ONLY SINCLAIR\nSJS1 JOYSTICKS": {
+      "atlas_xywh_px": [
+        8,
+        1800,
+        793,
+        157
+      ],
+      "ink_size_px": [
+        781,
+        145
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        24.78125,
+        4.90625
+      ]
+    },
+    "JOYSTICKS": {
+      "atlas_xywh_px": [
+        8,
+        2056,
+        455,
+        72
+      ],
+      "ink_size_px": [
+        443,
+        60
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        14.21875,
+        2.25
+      ]
+    },
+    "RESET": {
+      "atlas_xywh_px": [
+        8,
+        2312,
+        284,
+        72
+      ],
+      "ink_size_px": [
+        272,
+        60
+      ],
+      "pixels_per_mm": 32,
+      "decal_size_mm": [
+        8.875,
+        2.25
+      ]
+    }
+  },
+  "method": "Unscaled font raster; uniform 32 pixels/mm in orthonormal surface coordinates.",
+  "clear_support_pixel_xy": [
+    1023,
+    0
+  ],
+  "clear_support_pixel_rgba": [
+    230,
+    232,
+    218,
+    0
+  ],
+  "rgba_channel_extrema": [
+    [
+      230,
+      230
+    ],
+    [
+      232,
+      232
+    ],
+    [
+      218,
+      218
+    ],
+    [
+      0,
+      255
+    ]
+  ],
+  "background": "Zero alpha; RGB carries the ink colour even outside glyphs to prevent dark fringes."
+}

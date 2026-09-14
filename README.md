@@ -1,0 +1,68 @@
+# Retro Computer Models
+
+Editable 3D illustrations of classic home and personal computers. Download a
+**USDZ** for Quick Look, AR or a compatible viewer, or open the **Blender source**
+to edit the geometry, materials and packed textures.
+
+The collection currently contains **12 models**. The Spectrum 48K and Timex
+Sinclair 1500 are **awaiting visual approval**; publication does not mean they
+have been approved for an application. The other ten have been visually reviewed.
+The final ZX80 revision is pending and is not included yet.
+
+## Catalog
+
+Previews show the models, not reference photographs. Click a model name for its
+construction notes. For a binary file, use GitHub's **Download raw file** button.
+
+| Preview | Model | Downloads |
+|---|---|---|
+| <img src="previews/commodore64.png" width="180" alt="Commodore 64 model"> | [Commodore 64](ModelSources/WebPrototypes/) | [USDZ](ModelSources/WebPrototypes/commodore64.usdz) · [Blender](ModelSources/WebPrototypes/commodore64.blend) |
+| <img src="previews/vic20.png" width="180" alt="Commodore VIC-20 model"> | [Commodore VIC-20](ModelSources/WebPrototypes/) | [USDZ](ModelSources/WebPrototypes/vic20.usdz) · [Blender](ModelSources/WebPrototypes/vic20.blend) |
+| <img src="previews/researchMachines380Z.png" width="180" alt="Research Machines 380Z model"> | [Research Machines 380Z](ModelSources/RM380Z/) | [USDZ](ModelSources/RM380Z/researchMachines380Z.usdz) · [Blender](ModelSources/RM380Z/researchMachines380Z.blend) |
+| <img src="previews/bbcMicro.png" width="180" alt="BBC Micro Model B model"> | [BBC Micro Model B](ModelSources/BritishModels/) | [USDZ](ModelSources/BritishModels/bbcMicro.usdz) · [Blender](ModelSources/BritishModels/bbcMicro.blend) |
+| <img src="previews/amstradCPC464.png" width="180" alt="Amstrad CPC 464 model"> | [Amstrad CPC 464](ModelSources/BritishModels/) | [USDZ](ModelSources/BritishModels/amstradCPC464.usdz) · [Blender](ModelSources/BritishModels/amstradCPC464.blend) |
+| <img src="previews/zx81.png" width="180" alt="Sinclair ZX81 model"> | [Sinclair ZX81](ModelSources/ZX81ReferenceRebuild/) | [USDZ](ModelSources/ZX81ReferenceRebuild/zx81.usdz) · [Blender](ModelSources/ZX81ReferenceRebuild/zx81.blend) |
+| <img src="previews/jupiterAce.png" width="180" alt="Jupiter Ace model"> | [Jupiter Ace](ModelSources/JupiterAceReferenceRebuild/) | [USDZ](ModelSources/JupiterAceReferenceRebuild/jupiterAce.usdz) · [Blender](ModelSources/JupiterAceReferenceRebuild/jupiterAce.blend) |
+| <img src="previews/electron-review.png" width="180" alt="Acorn Electron model"> | [Acorn Electron](ModelSources/ElectronReferenceRebuild/) | [USDZ](ModelSources/ElectronReferenceRebuild/electron-review.usdz) · [Blender](ModelSources/ElectronReferenceRebuild/electron-review.blend) |
+| <img src="previews/appleIIe.png" width="180" alt="Apple IIe Italian keyboard model"> | [Apple IIe — Italian keyboard](ModelSources/AppleIIReferenceRebuild/) | [USDZ](ModelSources/AppleIIReferenceRebuild/appleIIe.usdz) · [Blender](ModelSources/AppleIIReferenceRebuild/appleIIe.blend) |
+| <img src="previews/spectrum-plus2.png" width="180" alt="Original grey Sinclair ZX Spectrum plus 2 model"> | [Sinclair ZX Spectrum +2 — original grey](ModelSources/SpectrumPlus2/) | [USDZ](ModelSources/SpectrumPlus2/spectrum-plus2.usdz) · [Blender](ModelSources/SpectrumPlus2/spectrum-plus2.blend) |
+| <img src="previews/zxSpectrum.png" width="180" alt="Sinclair ZX Spectrum 48K model"> | [Sinclair ZX Spectrum 48K — awaiting review](ModelSources/Spectrum48TS1500/) | [USDZ](ModelSources/Spectrum48TS1500/zxSpectrum.usdz) · [Blender](ModelSources/Spectrum48TS1500/zxSpectrum.blend) |
+| <img src="previews/timexSinclair1500.png" width="180" alt="Timex Sinclair 1500 model"> | [Timex Sinclair 1500 — awaiting review](ModelSources/Spectrum48TS1500/) | [USDZ](ModelSources/Spectrum48TS1500/timexSinclair1500.usdz) · [Blender](ModelSources/Spectrum48TS1500/timexSinclair1500.blend) |
+
+## What is included
+
+- One current `.usdz`, packed-texture `.blend` and standalone preview per model.
+- Construction scripts, their required authored measurements/layouts, and the
+  exact prepared textures. No reference meshes are required to run the builders.
+- [Build and export instructions](BUILDING.md), [source credits and rights](ATTRIBUTION.md),
+  and a machine-readable [catalog](catalog.json) with USDZ SHA-256 checksums.
+- [Verification results](verification.json): isolated packed-scene opening,
+  unchanged source geometry/artwork, actual reconstruction/export tests,
+  OpenUSD validation and native RealityKit loading/centering.
+
+USDZ assets contain model geometry and embedded textures, in metres with Y up.
+Blender files retain their editable component structure and, where present,
+preview cameras/lights. Named preview grounds and studios are not model parts.
+Packed textures let the scenes open without the original workstation.
+Some models join several components into one editable mesh with multiple
+materials; these are not parametric CAD assemblies.
+
+These are **reference-guided exterior illustrations**, not engineering drawings,
+certified replicas or ready-to-print replacement enclosures. Rounded edges,
+connector interiors, hidden surfaces and artwork can be approximate. Closed
+individual meshes can intersect and do not imply a fused printable assembly.
+Photographic textures retain some baked illumination, wear and reflections.
+Viewers may render materials differently.
+
+## Rights
+
+The existing [MIT license](LICENSE) covers original code and model contributions
+owned by the contributor. **It does not relicense third-party photographs,
+decals, reference-derived material or trademarks.** See [ATTRIBUTION.md](ATTRIBUTION.md)
+before redistributing models, embedded textures or renders.
+
+The contributor has confirmed permission to redistribute supplied photographs
+and decals. Known source credits and license notices are retained; that
+confirmation is not a blanket MIT grant for those materials. Downloaded reference
+photographs, reference STL/3MF files and photo-comparison sheets are not included.
+Computer and company names are their owners' marks; no endorsement is implied.

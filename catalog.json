@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Commodore 64",
+    "status": "reviewed",
+    "blend": "ModelSources/WebPrototypes/commodore64.blend",
+    "usdz": "ModelSources/WebPrototypes/commodore64.usdz",
+    "preview": "previews/commodore64.png",
+    "usdz_sha256": "0555ac0a45b5f91cce62f9121b151d20445d3072889e9d9add3464ecbc3502ea",
+    "blend_sha256": "43d84dc785ce6e7168de800ff689b2c501f9e5c29f06db3ab9f73fbff6fa9f9a",
+    "preview_sha256": "0c84fbcf783ac7af275d1bd211fc799ce1ec55fd9f33b9b330c8fca993c4e040"
+  },
+  {
+    "name": "Commodore VIC-20",
+    "status": "reviewed",
+    "blend": "ModelSources/WebPrototypes/vic20.blend",
+    "usdz": "ModelSources/WebPrototypes/vic20.usdz",
+    "preview": "previews/vic20.png",
+    "usdz_sha256": "86cdc752c2232cc50ab1d3a1e72a4d307c67a7bab50767ae18db0c1456ee82f2",
+    "blend_sha256": "f0f90df0c57eede70ba2ab97b2cfeb0564b1786db96f46804f3ec175992650f9",
+    "preview_sha256": "c4448ae4ded14b9b3390c68cfc69b3299f0d19d825e7d57bd8cb588976217a77"
+  },
+  {
+    "name": "Research Machines 380Z",
+    "status": "reviewed",
+    "blend": "ModelSources/RM380Z/researchMachines380Z.blend",
+    "usdz": "ModelSources/RM380Z/researchMachines380Z.usdz",
+    "preview": "previews/researchMachines380Z.png",
+    "usdz_sha256": "e8c67db0de6fc0e30c19deea43e7cdbc282c2af7331316da4600216b43a15665",
+    "blend_sha256": "81cc5dc8afb0c53939eafd93e3ed83e528c2781508d42f35e9bbf1ffdba84687",
+    "preview_sha256": "6309682b721cf9065af807e3e15ab1cf4a759085373ed8e7e570278689150836"
+  },
+  {
+    "name": "BBC Micro Model B",
+    "status": "reviewed",
+    "blend": "ModelSources/BritishModels/bbcMicro.blend",
+    "usdz": "ModelSources/BritishModels/bbcMicro.usdz",
+    "preview": "previews/bbcMicro.png",
+    "usdz_sha256": "ce4783e2d8773b3a9c2da82465a0b4faf564b96ebe0492ab8af6ba4c21cce496",
+    "blend_sha256": "405f9288f865529ae6cef059dfa49b4c5cfcb0c5ce7c44111b147966056e1587",
+    "preview_sha256": "6569ce91b0bfc4876b63b3fd1e94cc4b40d72004a24c8afedc51f8fb1c6120f0"
+  },
+  {
+    "name": "Amstrad CPC 464",
+    "status": "reviewed",
+    "blend": "ModelSources/BritishModels/amstradCPC464.blend",
+    "usdz": "ModelSources/BritishModels/amstradCPC464.usdz",
+    "preview": "previews/amstradCPC464.png",
+    "usdz_sha256": "59ff42e0070bc6312b75466d3e0e89e53f3b9f269732426c6f4e347b8a592427",
+    "blend_sha256": "74adaa0b3efebfa135059450e203d5052ce81d26f6c5d9f4484419b582c7d2e1",
+    "preview_sha256": "143160f0e493839689ab8f8b8e410235c080eec0b619dfeda9fdf9c86b46a6fc"
+  },
+  {
+    "name": "Sinclair ZX81",
+    "status": "reviewed",
+    "blend": "ModelSources/ZX81ReferenceRebuild/zx81.blend",
+    "usdz": "ModelSources/ZX81ReferenceRebuild/zx81.usdz",
+    "preview": "previews/zx81.png",
+    "usdz_sha256": "9afc7f6a578c88fdccd5cd39ed828bee522e8d50e5e6332d0d400b17eca47342",
+    "blend_sha256": "83a3d8e7d7b78769fd2adc194b287b81c1d8058bf7f8375c7528e9b37e029b8c",
+    "preview_sha256": "dc8e9e60b6e8821000787b6c78366a1a2bd804c46903da9d3fd4966be14facff"
+  },
+  {
+    "name": "Jupiter Ace",
+    "status": "reviewed",
+    "blend": "ModelSources/JupiterAceReferenceRebuild/jupiterAce.blend",
+    "usdz": "ModelSources/JupiterAceReferenceRebuild/jupiterAce.usdz",
+    "preview": "previews/jupiterAce.png",
+    "usdz_sha256": "9cbaefc18648a8b882376f73a621ff053427573add56f3fecf092a9f1c479e33",
+    "blend_sha256": "5d03a393658800b176ebda148c66c211f38ae3617851fd70c707274d57b46dd9",
+    "preview_sha256": "115d119e1619c1ff0f9bbd25e40018fa54fbf377367720e195c4133ded569778"
+  },
+  {
+    "name": "Acorn Electron",
+    "status": "reviewed",
+    "blend": "ModelSources/ElectronReferenceRebuild/electron-review.blend",
+    "usdz": "ModelSources/ElectronReferenceRebuild/electron-review.usdz",
+    "preview": "previews/electron-review.png",
+    "usdz_sha256": "bf44e0442ef252c4603f52780878b75775e2087fb529cdff34fa623721bf2c95",
+    "blend_sha256": "3eeb497c6647ddc06ad786e7fc126daa9d1ed0ecaf71112edb0614c0abf64a76",
+    "preview_sha256": "eeedac3a7280c21cefe0256e4266a6842bd8a14710b77f39a14cb2992350e5c9"
+  },
+  {
+    "name": "Apple IIe (Italian keyboard)",
+    "status": "reviewed",
+    "blend": "ModelSources/AppleIIReferenceRebuild/appleIIe.blend",
+    "usdz": "ModelSources/AppleIIReferenceRebuild/appleIIe.usdz",
+    "preview": "previews/appleIIe.png",
+    "usdz_sha256": "86c45864e6c686fc33058d8fb9bcbd581c6561cdd26dd7d49097758a2dfb11d2",
+    "blend_sha256": "b0290dab93d218d16239b2a5e5142e53e2f09aeded61ff79c8c325cd96296b11",
+    "preview_sha256": "d3b6df40cb175513d94615b57d20b32b0a763d29294bba7102f9516c95926ff0"
+  },
+  {
+    "name": "Sinclair ZX Spectrum +2 (original grey)",
+    "status": "reviewed",
+    "blend": "ModelSources/SpectrumPlus2/spectrum-plus2.blend",
+    "usdz": "ModelSources/SpectrumPlus2/spectrum-plus2.usdz",
+    "preview": "previews/spectrum-plus2.png",
+    "usdz_sha256": "4d3d9e4d8a320e1e3ef461a3bf2079d2e82a657f953f9511d3d3572f627cf043",
+    "blend_sha256": "d0bb426f8dbb7068871e8d68a0bca380eda65ffc1ceed4e013ec6fd56a01fdb4",
+    "preview_sha256": "0d8e7648cdb788fa8f5a1360f429edf113e358df169a7a39314c36ad9c0409ae"
+  },
+  {
+    "name": "Sinclair ZX Spectrum 48K",
+    "status": "awaiting review",
+    "blend": "ModelSources/Spectrum48TS1500/zxSpectrum.blend",
+    "usdz": "ModelSources/Spectrum48TS1500/zxSpectrum.usdz",
+    "preview": "previews/zxSpectrum.png",
+    "usdz_sha256": "d82910445b27a3db154e608beab7b4e9a2abfef7d9080bdeeeda46abe09c4487",
+    "blend_sha256": "91931e59c4af7f5474eea8e5e6c5397a82ca4596ecfaa4302a5124883ccb9dd9",
+    "preview_sha256": "e4200c97dca581dfb9fdd07957124cb2c0de840c11d07769b6a5f83b2cae4f88"
+  },
+  {
+    "name": "Timex Sinclair 1500",
+    "status": "awaiting review",
+    "blend": "ModelSources/Spectrum48TS1500/timexSinclair1500.blend",
+    "usdz": "ModelSources/Spectrum48TS1500/timexSinclair1500.usdz",
+    "preview": "previews/timexSinclair1500.png",
+    "usdz_sha256": "37327d59ca8f394ea35f2ccf7be51c563b4d29a080e9ebc44200cc2715ac53ab",
+    "blend_sha256": "9b599a6d165d637370580d423c3d5b65c75ed6b37f27d930fa5a1e5f335cae52",
+    "preview_sha256": "acfc3588c3cbbe383f76bb8b746b692855c417b2238b150ea35a17f56e7e877e"
+  }
+]
