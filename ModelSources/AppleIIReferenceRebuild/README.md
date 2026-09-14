@@ -1,29 +1,35 @@
-# Apple IIe — Italian PAL keyboard
+# Apple IIe — US keyboard variant
 
-This is the **final centered-keyboard** IIe, not the earlier original-II
-prototype or a pre-centering backup. Its 62-key main group was translated
-rigidly by about −2.225 mm along X, leaving approximately **10.3875 mm**
-clearance on each side. The isolated RESET key remains independently centered.
-The editable scene retains this final positioning.
+This is a **63-key, pre-Platinum US QWERTY keyboard in the existing case/rear
+configuration**, not a wholesale conversion to a US-spec motherboard, power
+supply or rear panel. The Italian/PAL reference specimen's rear connectors,
+240V markings, lid, branding, colors and other non-keyboard details are retained.
 
-The pre-Platinum Italian specimen has 63 keys including RESET, QZERTY primary
-layout, selected dual-layout legends, tall Return, both Apple keys, Caps Lock,
-cursor keys and a narrow power lens. A removable narrow center lid includes the
-sloping badge fascia. Dished keycaps, side ventilation, rear blanking apertures,
-specimen-specific connectors and lid tabs are modeled with original geometry.
+The keyboard follows Apple's *Apple IIe Reference Manual*, printed page 12,
+Figure 2-1 and Table 2-1: US punctuation, row staggering, a horizontal single-row
+1.75-unit RETURN, 1.5-unit DELETE/TAB, 1.75-unit CONTROL, 2.25-unit SHIFT keys
+and 5.5-unit spacebar. It includes both Apple keys, Caps Lock and four cursor
+keys. Proportions are diagram-derived, not physical caliper measurements;
+typography, colors, keycap sculpting and the assumed 19.05 mm pitch remain approximate.
 
-Nominal **382.5875 × 463.55 × 109.5375 mm** includes feet and lid tabs, based on
-LaserMaster's community measurement of an IIe, not this photographed specimen.
-Splitting the depth into a 457.2 mm shell and 6.35 mm tabs is an assumption.
-Profile/aperture observations informed the geometry. The keyboard and four
-necessary artwork textures are contained in the packed Blender scene; separate
-measurement inputs and original photographs are not included.
+The 62-key main bank retains balanced **10.3875 mm** outer clearances.
+The isolated RESET key/pocket is unchanged. A localized **6 mm DELETE-corner
+aperture relief** accommodates the wider US key while retaining a 2.875 mm
+case bridge to RESET. Outside the keyboard and this necessary local opening
+change, the existing case/rear geometry and non-keyboard artwork are preserved.
 
-The monitor, DuoDisk and dangling ribbon cable are excluded. Rear populated ports
-follow the reference specimen, not every IIe configuration. Exact board revision,
-socket sex, tolerances, fillets, key sculpting and typography are not certified.
-A dark interior shadow proxy blocks unrealistic through-vent views; it is not
-reconstructed electronics. No photographic pixels are embedded.
+Nominal envelope: **382.5875 × 463.55 × 109.5375 mm**, including feet and rear
+lid tabs, based on LaserMaster's community measurement of an IIe rather than
+the photographed specimen. The 457.2 mm shell plus 6.35 mm tab-depth split is
+an assumption. The removable lid includes the badge fascia; side ventilation
+and specimen-specific rear connectors remain modeled. A dark interior shadow
+proxy blocks unrealistic through-vent views, not reconstructed electronics.
+Monitor, DuoDisk, dangling cable and internal hardware are not included.
+
+Open `appleIIe.blend` to edit the geometry/materials and four packed artwork
+images, or `appleIIe.usdz` to view. The US key atlas is newly drawn; no manual
+diagram or photograph pixels are embedded. No Italian backup, original supplied
+input, reference image, manual PDF or construction pipeline is included separately.
 
 See [editing/export instructions](../../USAGE.md) and
-[Oldcomputr / dimensional source attribution](../../ATTRIBUTION.md#apple-iie).
+[Apple manual, case-reference and dimensional attribution](../../ATTRIBUTION.md#apple-iie).

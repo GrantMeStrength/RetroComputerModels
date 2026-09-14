@@ -91,14 +91,15 @@
     "preview_sha256": "eeedac3a7280c21cefe0256e4266a6842bd8a14710b77f39a14cb2992350e5c9"
   },
   {
-    "name": "Apple IIe (Italian keyboard)",
+    "name": "Apple IIe (US keyboard variant)",
     "status": "reviewed",
     "blend": "ModelSources/AppleIIReferenceRebuild/appleIIe.blend",
     "usdz": "ModelSources/AppleIIReferenceRebuild/appleIIe.usdz",
     "preview": "previews/appleIIe.png",
-    "usdz_sha256": "86c45864e6c686fc33058d8fb9bcbd581c6561cdd26dd7d49097758a2dfb11d2",
-    "blend_sha256": "b0290dab93d218d16239b2a5e5142e53e2f09aeded61ff79c8c325cd96296b11",
-    "preview_sha256": "d3b6df40cb175513d94615b57d20b32b0a763d29294bba7102f9516c95926ff0"
+    "usdz_sha256": "415e4085cec6b6e6f8e128e80d9eb533bb01120f0889e5ac9f6d935a878c301c",
+    "blend_sha256": "d786050fe849c33967ca61c6c3350f0bc3fbdc05a2d5f8e50a5da3fa08bbda9b",
+    "preview_sha256": "8684744e1f30935b7f587caf2409708afd8e1628414e2706d89cf85ed22eabfc",
+    "revision": "63-key US QWERTY keyboard; existing case/rear configuration retained"
   },
   {
     "name": "Sinclair ZX Spectrum +2 (original grey)",

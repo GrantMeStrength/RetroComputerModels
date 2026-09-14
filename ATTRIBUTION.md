@@ -173,13 +173,28 @@ and [chapter 5](https://www.acornelectron.co.uk/ugs/electron/acorn_computers/ug-
 
 ## Apple IIe
 
-Original geometry and four newly drawn texture atlases; no photographic pixels
-are embedded. Italian PAL specimen reference: **Oldcomputr.com**,
+The current model is a **US-keyboard variant of the existing case/rear configuration**.
+Original geometry and four newly drawn texture atlases; no photographic or
+manual-diagram pixels are embedded.
+
+Primary US keyboard source: **Apple Computer, Inc., *Apple IIe Reference Manual***,
+printed page 12, Figure 2-1 and Table 2-1,
+[Internet Archive scan](https://archive.org/details/a2_reference_manual/page/n29/mode/2up).
+The manual explicitly identifies the standard US layout and 63-key count.
+Its diagram informed factual key positions, widths, staggering and legends;
+the scan/PDF is not distributed. Keyboard artwork is newly drawn, not copied
+diagram pixels. A secondary [Apple-history photograph](https://apple-history.com/images/models/apple_iie_larger.jpg)
+is credited there to **Vectronic's Apple World**; that photograph is not distributed.
+
+Retained case/rear and cap-form reference: Italian PAL specimen from **Oldcomputr.com**,
 [Apple IIe (1983)](https://www.oldcomputr.com/apple-iie-1983/),
 [full views](https://www.oldcomputr.com/wp-content/uploads/2015/12/apple_iie-views.jpg),
 [Italian keyboard](https://www.oldcomputr.com/wp-content/uploads/2015/12/apple_iie-italian_keyboard_layout.jpg),
 [lid removed](https://www.oldcomputr.com/wp-content/uploads/2015/12/apple_iie-without_lid.jpg).
-Reference photographs are not distributed.
+Reference photographs are not distributed. The Oldcomputr keyboard photograph
+does not establish the current US key arrangement. Fitting that US keyboard
+does not convert the retained rear connectors, 240V markings or motherboard
+configuration into a fully US-spec machine.
 
 Nominal envelope: **LaserMaster's direct IIe measurement**, 11 October 2021,
 [Applefritter comment](https://www.applefritter.com/comment/94753#comment-94753).

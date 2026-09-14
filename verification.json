@@ -120,16 +120,17 @@
       "native_realitykit_loaded_and_centered": true
     },
     {
-      "model": "Apple IIe (Italian keyboard)",
+      "model": "Apple IIe (US keyboard variant)",
       "isolated_blend_open": true,
       "source_geometry_uv_material_transforms_preserved": true,
       "packed_images_unchanged": 4,
-      "scene_content_sha256": "c70604d33deeafa34303e3e4e92c2ce4d602dc052972ace8b6132682cfaceed2",
+      "scene_content_sha256": "9b0e7e937ce9dbdeae04ccf26e31afd623ea8c6b888c75f8305ffba1ce60fe7d",
       "mesh_count": 161,
-      "vertices": 19130,
-      "triangles": 37916,
+      "vertices": 19180,
+      "triangles": 38016,
       "usd_warnings": [],
-      "native_realitykit_loaded_and_centered": true
+      "native_realitykit_loaded_and_centered": true,
+      "revision": "63-key US QWERTY keyboard; existing case/rear configuration retained"
     },
     {
       "model": "Sinclair ZX Spectrum +2 (original grey)",
