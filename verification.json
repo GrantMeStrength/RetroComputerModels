@@ -2,9 +2,9 @@
   "date": "2026-09-14",
   "blender_version": "5.2.1 LTS",
   "openusd_version": "0.26.8",
-  "model_count": 14,
+  "model_count": 15,
   "standalone_blend_export_validated": "appleIIe",
-  "packed_scene_exports_without_external_texture_files": 14,
+  "packed_scene_exports_without_external_texture_files": 15,
   "preview_pixels_preserved_during_metadata_cleanup": true,
   "usdz_files_identical_to_curated_sources": true,
   "all_distributed_files_below_100MB": true,
@@ -182,6 +182,19 @@
       "usd_warnings": [],
       "native_realitykit_loaded_and_centered": true,
       "revision": "US TS2068 / NTSC exterior; not Portuguese TC2068"
+    },
+    {
+      "model": "Retro84",
+      "isolated_blend_open": true,
+      "source_geometry_uv_material_transforms_preserved": true,
+      "packed_images_unchanged": 4,
+      "scene_content_sha256": "a93d7a1c6d233f35d429868abed91f3d3f14d56e9f6deb514c131198f64dd9b2",
+      "mesh_count": 225,
+      "vertices": 22689,
+      "triangles": 44894,
+      "usd_warnings": [],
+      "native_realitykit_loaded_and_centered": true,
+      "revision": "Original fictional keyboard-computer design; fixed illustrative configuration"
     }
   ]
 }

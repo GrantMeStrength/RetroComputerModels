@@ -143,5 +143,18 @@
     "blend_sha256": "29cc6b077f30bdbacdc89243c12298c55258c3639f03be283125376f51d2c8e6",
     "usdz_sha256": "6f9b5cd8cde8672de6c46e4426c669217d2aedab63b1d1461001fbc0e2a887d8",
     "preview_sha256": "cb0339b8a1a12707057bb1e8f65b386de80b9266207e123156a234f69fd0440e"
+  },
+  {
+    "name": "Retro84",
+    "status": "reviewed",
+    "category": "original fictional concept",
+    "concept_year": 1984,
+    "blend": "ModelSources/Retro84/retro84.blend",
+    "usdz": "ModelSources/Retro84/retro84.usdz",
+    "preview": "previews/retro84.png",
+    "revision": "Original fictional keyboard-computer design; fixed illustrative configuration",
+    "blend_sha256": "140a21f3995bf801ba84bc66d1e57a202033a59f69c2b9d5cc7f2f86aaa03a64",
+    "usdz_sha256": "8d0c0d5042672dcdd69a05084e5cbc02695dcefa514a286673e7ded61d001484",
+    "preview_sha256": "7d3058e325f50bfbf9b15cfd535ff3894ee7245e6491659476bd7ea538db2dbd"
   }
 ]

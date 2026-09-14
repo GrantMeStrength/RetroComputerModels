@@ -272,3 +272,22 @@ Reference sources, consulted for factual context/dimensions only:
 No research-site photograph, third-party model or old scan topology is included.
 Timex/Sinclair branding, printed artwork and industrial-design rights remain
 with their respective owners; no endorsement is implied.
+
+## Retro84 original fictional design
+
+Retro84 is an independently authored, fictional 1984 keyboard-computer concept.
+It is not a historical machine and does not claim endorsement by a real
+computer manufacturer. Its geometry, folded-wing mark, palette and print layouts
+are original contributions covered by the root MIT license to the extent the
+contributor owns those rights.
+
+No historical photograph, third-party mesh topology or photographic texture is
+embedded. Earlier models informed construction techniques rather than copied
+branded parts. Arial, Arial Bold and DIN Alternate Bold were rasterized into the
+original print artwork from locally available fonts; **font files are not
+distributed**, and their software licenses are not replaced by this repository's
+MIT license.
+
+“Retro84” is the fictional design's name, not a representation that trademark
+clearance has been obtained. The model is a fixed concept illustration, not an
+electrically functional product or automatically configurable game-component system.

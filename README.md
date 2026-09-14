@@ -1,12 +1,14 @@
 # Retro Computer Models
 
-Editable 3D illustrations of classic home and personal computers. Download a
+Editable 3D illustrations of classic home and personal computers, plus an
+original fictional concept. Download a
 **USDZ** for Quick Look, AR or a compatible viewer, or open the **Blender source**
 to edit the geometry, materials and packed textures.
 
-The collection currently contains **14 models**. The Spectrum 48K and Timex
+The collection contains **15 models: 14 historical recreations and one original
+fictional concept**. The Spectrum 48K and Timex
 Sinclair 1500 are **awaiting visual approval**; publication does not mean they
-have been approved for an application. The other twelve have been visually reviewed.
+have been approved for an application. All other entries have been visually reviewed.
 The ZX80 includes the completed bottom, supplied top decal, two-sided edge
 contacts and case-colored joining rivets.
 
@@ -32,6 +34,16 @@ limitations and source notes. For a binary file, use GitHub's **Download raw fil
 | <img src="previews/timexSinclair1500.png" width="180" alt="Timex Sinclair 1500 model"> | [Timex Sinclair 1500 — awaiting review](ModelSources/Spectrum48TS1500/) | [USDZ](ModelSources/Spectrum48TS1500/timexSinclair1500.usdz) · [Blender](ModelSources/Spectrum48TS1500/timexSinclair1500.blend) |
 | <img src="previews/timexSinclair2068.png" width="180" alt="US Timex Sinclair 2068 model"> | [Timex Sinclair 2068 — US / NTSC](ModelSources/TS2068ReferenceRebuild/) | [USDZ](ModelSources/TS2068ReferenceRebuild/timexSinclair2068.usdz) · [Blender](ModelSources/TS2068ReferenceRebuild/timexSinclair2068.blend) |
 
+### Original fictional concept
+
+**Retro84 is an original imagined 1984 keyboard computer, not a historical machine.**
+It is one fixed illustrative design, not geometry that automatically reflects
+every game component choice or case style.
+
+| Preview | Model | Downloads |
+|---|---|---|
+| <img src="previews/retro84.png" width="240" alt="Retro84 original fictional keyboard-computer concept"> | [Retro84 — original fictional concept](ModelSources/Retro84/) | [USDZ](ModelSources/Retro84/retro84.usdz) · [Blender](ModelSources/Retro84/retro84.blend) |
+
 ## What is included
 
 - One current `.usdz`, packed-texture `.blend` and standalone preview per model.
@@ -56,7 +68,8 @@ Packed textures let the scenes open without the original workstation.
 Some models join several components into one editable mesh with multiple
 materials; these are not parametric CAD assemblies.
 
-These are **reference-guided exterior illustrations**, not engineering drawings,
+The historical models are **reference-guided exterior illustrations**; Retro84
+is an original fictional product concept. None are engineering drawings,
 certified replicas or ready-to-print replacement enclosures. Rounded edges,
 connector interiors, hidden surfaces and artwork can be approximate. Closed
 individual meshes can intersect and do not imply a fused printable assembly.
