@@ -132,5 +132,16 @@
     "blend_sha256": "9d0659d42f853385f654bc067b1d5579916216d95e968308edc0aa1c90fa0a0c",
     "preview_sha256": "8feba9818e19475c209a4f7a4c203ec22ea939d50fbc0248097f98f01d20f91f",
     "revision": "Flat rubber-key tops with 0.2 mm edge bevels"
+  },
+  {
+    "name": "Timex Sinclair 2068 (US / NTSC)",
+    "status": "reviewed",
+    "blend": "ModelSources/TS2068ReferenceRebuild/timexSinclair2068.blend",
+    "usdz": "ModelSources/TS2068ReferenceRebuild/timexSinclair2068.usdz",
+    "preview": "previews/timexSinclair2068.png",
+    "revision": "US TS2068 / NTSC exterior; not Portuguese TC2068",
+    "blend_sha256": "29cc6b077f30bdbacdc89243c12298c55258c3639f03be283125376f51d2c8e6",
+    "usdz_sha256": "6f9b5cd8cde8672de6c46e4426c669217d2aedab63b1d1461001fbc0e2a887d8",
+    "preview_sha256": "cb0339b8a1a12707057bb1e8f65b386de80b9266207e123156a234f69fd0440e"
   }
 ]

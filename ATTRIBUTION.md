@@ -234,3 +234,41 @@ Additional references, **not included as photographs or textures**:
   3 March 2020,
   [article](https://sadbadger.com/blog/2020/3/3/a-look-around-the-timex-sinclair-model-1500).
 - [Sinclair Collection, TS1500](https://www.sinclaircollection.site/?page_id=410).
+
+## Timex Sinclair 2068
+
+The contributor supplied the reference photographs and explicitly confirms
+permission to redistribute the necessary photographic regions embedded in this
+model. Photographer names and independent license instruments were not supplied.
+No broader Creative Commons, public-domain or MIT grant is asserted for the
+photographic material. Original input images are not distributed separately.
+
+Primary US reference: supplied `ts2068-top-angle.jpg.png`, with
+`ts2068-angle.png` corroborating case, keyboard and lid form. Supplied
+`ts2068-right-side.png`, `ts2068-left-side.png`, `ts2068-rear-ports.png` and
+`ts2068-detail.jpg` informed profiles, port order or key form; their exact specimen
+identity is not independently established. The supplied `ts2068-top.jpeg`
+depicts the Portuguese **TC2068/PAL**, and was excluded from this US model's
+geometry, dimensions and textures.
+
+Changes: planar rectification and selective crops of US key-command artwork,
+case logo/ruling/extended legends and the TCC lid emblem; original key shadows
+masked out of the case region; primary alphanumerics redrawn to repair projection
+clipping; silver photographic background removed around lid markings.
+Rear labels are newly drawn. Derived photographic regions remain in the packed
+`case-graphics.png`, `lid-graphics.png` and `keycap-atlas.png` textures and appear
+in the preview; `rear-graphics.png` contains the original rear-label artwork.
+These packed-image names do not imply ownership of the underlying supplied photos.
+
+Reference sources, consulted for factual context/dimensions only:
+- [Sinclair Collection, Timex Sinclair 2068](https://www.sinclaircollection.site/?page_id=475) —
+  collector-reported US dimensions; not hardware metrology.
+- [Timex/Sinclair Computers, TS2068](https://www.timexsinclair.com/computers/timex-sinclair-2068/) —
+  US machine, 42 hard keys, joystick/cartridge/monitor features and supply information.
+- [Sinclair Collection, silver Timex Computer 2068](https://www.sinclaircollection.site/?page_id=477)
+  and [LOAD ZX, TC2068](https://loadzx.com/timexcomputerworld/tc2068/) —
+  Portuguese revision differences; those TC dimensions were not used.
+
+No research-site photograph, third-party model or old scan topology is included.
+Timex/Sinclair branding, printed artwork and industrial-design rights remain
+with their respective owners; no endorsement is implied.

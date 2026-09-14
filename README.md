@@ -4,9 +4,9 @@ Editable 3D illustrations of classic home and personal computers. Download a
 **USDZ** for Quick Look, AR or a compatible viewer, or open the **Blender source**
 to edit the geometry, materials and packed textures.
 
-The collection currently contains **13 models**. The Spectrum 48K and Timex
+The collection currently contains **14 models**. The Spectrum 48K and Timex
 Sinclair 1500 are **awaiting visual approval**; publication does not mean they
-have been approved for an application. The other eleven have been visually reviewed.
+have been approved for an application. The other twelve have been visually reviewed.
 The ZX80 includes the completed bottom, supplied top decal, two-sided edge
 contacts and case-colored joining rivets.
 
@@ -30,6 +30,7 @@ limitations and source notes. For a binary file, use GitHub's **Download raw fil
 | <img src="previews/spectrum-plus2.png" width="180" alt="Original grey Sinclair ZX Spectrum plus 2 model"> | [Sinclair ZX Spectrum +2 — original grey](ModelSources/SpectrumPlus2/) | [USDZ](ModelSources/SpectrumPlus2/spectrum-plus2.usdz) · [Blender](ModelSources/SpectrumPlus2/spectrum-plus2.blend) |
 | <img src="previews/zxSpectrum.png" width="180" alt="Sinclair ZX Spectrum 48K model"> | [Sinclair ZX Spectrum 48K — awaiting review](ModelSources/Spectrum48TS1500/) | [USDZ](ModelSources/Spectrum48TS1500/zxSpectrum.usdz) · [Blender](ModelSources/Spectrum48TS1500/zxSpectrum.blend) |
 | <img src="previews/timexSinclair1500.png" width="180" alt="Timex Sinclair 1500 model"> | [Timex Sinclair 1500 — awaiting review](ModelSources/Spectrum48TS1500/) | [USDZ](ModelSources/Spectrum48TS1500/timexSinclair1500.usdz) · [Blender](ModelSources/Spectrum48TS1500/timexSinclair1500.blend) |
+| <img src="previews/timexSinclair2068.png" width="180" alt="US Timex Sinclair 2068 model"> | [Timex Sinclair 2068 — US / NTSC](ModelSources/TS2068ReferenceRebuild/) | [USDZ](ModelSources/TS2068ReferenceRebuild/timexSinclair2068.usdz) · [Blender](ModelSources/TS2068ReferenceRebuild/timexSinclair2068.blend) |
 
 ## What is included
 

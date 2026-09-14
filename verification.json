@@ -2,9 +2,9 @@
   "date": "2026-09-14",
   "blender_version": "5.2.1 LTS",
   "openusd_version": "0.26.8",
-  "model_count": 13,
+  "model_count": 14,
   "standalone_blend_export_validated": "appleIIe",
-  "packed_scene_exports_without_external_texture_files": 13,
+  "packed_scene_exports_without_external_texture_files": 14,
   "preview_pixels_preserved_during_metadata_cleanup": true,
   "usdz_files_identical_to_curated_sources": true,
   "all_distributed_files_below_100MB": true,
@@ -169,6 +169,19 @@
       "usd_warnings": [],
       "native_realitykit_loaded_and_centered": true,
       "revision": "Flat rubber-key tops with 0.2 mm edge bevels"
+    },
+    {
+      "model": "Timex Sinclair 2068 (US / NTSC)",
+      "isolated_blend_open": true,
+      "source_geometry_uv_material_transforms_preserved": true,
+      "packed_images_unchanged": 4,
+      "scene_content_sha256": "95bdfad1c105c58c913107e94a2e1e1e1f93cace61d8e820d80bf942c631e293",
+      "mesh_count": 374,
+      "vertices": 47354,
+      "triangles": 93368,
+      "usd_warnings": [],
+      "native_realitykit_loaded_and_centered": true,
+      "revision": "US TS2068 / NTSC exterior; not Portuguese TC2068"
     }
   ]
 }
