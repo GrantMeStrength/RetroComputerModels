@@ -135,24 +135,26 @@
       "isolated_blend_open": true,
       "source_geometry_uv_material_transforms_preserved": true,
       "packed_images_unchanged": 4,
-      "scene_content_sha256": "b7fb55acda5020e7bb52380dcfa85a88fd5e11c52f1eccf9263720837e060ff8",
+      "scene_content_sha256": "c9224d94c6915058a914fa2858f9ddd31e3216d0815681c29b9ba2fae5f223cb",
       "mesh_count": 85,
       "vertices": 8536,
       "triangles": 16748,
       "usd_warnings": [],
-      "native_realitykit_loaded_and_centered": true
+      "native_realitykit_loaded_and_centered": true,
+      "revision": "Flat rubber-key tops with 0.2 mm edge bevels"
     },
     {
       "model": "Timex Sinclair 1500",
       "isolated_blend_open": true,
       "source_geometry_uv_material_transforms_preserved": true,
       "packed_images_unchanged": 5,
-      "scene_content_sha256": "9ae32a3f53f28bccaa6ed8b4b4b61901e6a260eff2da225b39e98f92b2bfacb2",
+      "scene_content_sha256": "ef4a37306efd54b4a67302ae0312b4ef5326a7c5c5092198e627fb8e6eff6698",
       "mesh_count": 63,
       "vertices": 13954,
       "triangles": 27672,
       "usd_warnings": [],
-      "native_realitykit_loaded_and_centered": true
+      "native_realitykit_loaded_and_centered": true,
+      "revision": "Flat rubber-key tops with 0.2 mm edge bevels"
     }
   ]
 }

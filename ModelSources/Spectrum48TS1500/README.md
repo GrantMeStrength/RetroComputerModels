@@ -4,8 +4,10 @@
 not approved application assets.
 
 Both use a nominal **233 × 144 mm** footprint, approximately **30 mm** overall
-height, original rolled/deck-step case lofts, thin faceplates and 40 individually
-rounded rubber keys. Exact published heights are about 30.075 mm (Spectrum)
+height, original rolled/deck-step case lofts, thin faceplates and 40 individual
+rubber keys with **single flat tops and small 0.2 mm edge bevels**. Key heights,
+bases and footprints are retained; the other model parts are unchanged.
+Exact published heights are about 30.075 mm (Spectrum)
 and 30.090 mm (Timex), including thin artwork layers.
 
 The Spectrum retains its black shell, blue/gray rubber, multicolor BASIC legends,

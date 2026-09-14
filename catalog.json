@@ -105,9 +105,10 @@
     "blend": "ModelSources/Spectrum48TS1500/zxSpectrum.blend",
     "usdz": "ModelSources/Spectrum48TS1500/zxSpectrum.usdz",
     "preview": "previews/zxSpectrum.png",
-    "usdz_sha256": "d82910445b27a3db154e608beab7b4e9a2abfef7d9080bdeeeda46abe09c4487",
-    "blend_sha256": "91931e59c4af7f5474eea8e5e6c5397a82ca4596ecfaa4302a5124883ccb9dd9",
-    "preview_sha256": "e4200c97dca581dfb9fdd07957124cb2c0de840c11d07769b6a5f83b2cae4f88"
+    "usdz_sha256": "0c4ff91d4b404dbef50ecfdaba8432dad1eeb23fa329a571eca9b2628df8f57e",
+    "blend_sha256": "4660e3ef2c15dd1926519bb7564a34d19fda08a6a127fcd2afe95e433fd14d63",
+    "preview_sha256": "313dafbd3be9f42a5d31c2b4259c67a110627dbfd605db2e959b566cdb936764",
+    "revision": "Flat rubber-key tops with 0.2 mm edge bevels"
   },
   {
     "name": "Timex Sinclair 1500",
@@ -115,8 +116,9 @@
     "blend": "ModelSources/Spectrum48TS1500/timexSinclair1500.blend",
     "usdz": "ModelSources/Spectrum48TS1500/timexSinclair1500.usdz",
     "preview": "previews/timexSinclair1500.png",
-    "usdz_sha256": "37327d59ca8f394ea35f2ccf7be51c563b4d29a080e9ebc44200cc2715ac53ab",
-    "blend_sha256": "9b599a6d165d637370580d423c3d5b65c75ed6b37f27d930fa5a1e5f335cae52",
-    "preview_sha256": "acfc3588c3cbbe383f76bb8b746b692855c417b2238b150ea35a17f56e7e877e"
+    "usdz_sha256": "2fef85bbc85a856c3ff1780d558d607b97afa1d1a2993ddea3fe6da55833a062",
+    "blend_sha256": "9d0659d42f853385f654bc067b1d5579916216d95e968308edc0aa1c90fa0a0c",
+    "preview_sha256": "8feba9818e19475c209a4f7a4c203ec22ea939d50fbc0248097f98f01d20f91f",
+    "revision": "Flat rubber-key tops with 0.2 mm edge bevels"
   }
 ]
